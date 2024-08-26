@@ -1,2 +1,2 @@
-# PROGRAMACIONintegral
+# PROGRAMACION Integral
 Proyecto de PROGRAMACIÓN INTEGRAL
