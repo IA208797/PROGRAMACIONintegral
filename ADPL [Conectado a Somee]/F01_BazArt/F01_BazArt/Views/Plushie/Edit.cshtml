@@ -1,0 +1,138 @@
+﻿@model F01_BazArt.ViewModels.PlushieVM
+
+@{
+	ViewData["Title"] = "Edit";
+}
+
+<nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+  <ol class="breadcrumb">
+	<li class="breadcrumb-item text-decoration-none"><a asp-action="Index">Inicio</a></li>
+	<li class="breadcrumb-item active" aria-current="page">Editar - @Html.DisplayFor(model => model.Name)</li>
+  </ol>
+</nav>
+
+<div class="col-md-12 mx-0 h-auto py-4">
+	<div class="card">
+		<div class="card-header text-uppercase text-white" style="background-color:#6f42c1;">
+			<h4>Editar "@Model.Name"</h4>
+		</div>
+
+		<div class="card-body">
+			<form asp-action="Edit" method="post" enctype="multipart/form-data">
+				<input type="hidden" name="id" value="@ViewBag.PlushieId" />
+				<div class="row">
+					<div class="col-md-4">
+						<div class="form-group">
+							<label asp-for="Name" class="control-label"></label>
+							<input asp-for="Name" class="form-control" />
+							<span asp-validation-for="Name" class="text-danger"></span>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="form-group">
+							<label asp-for="Price" class="control-label"></label>
+							<input asp-for="Price" class="form-control" />
+							<span asp-validation-for="Price" class="text-danger"></span>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="form-group">
+							<label asp-for="Stock" class="control-label"></label>
+							<input asp-for="Stock" class="form-control" />
+							<span asp-validation-for="Stock" class="text-danger"></span>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-2">
+						<div class="form-group">
+							<label asp-for="Type" class="control-label"></label>
+							<select asp-for="Type" class="form-control">
+								<option value="">Selecciona el tipo</option>
+								<option value="Abeja">Abeja</option>
+								<option value="Axolotl">Axolotl</option>
+								<option value="Gato">Gato</option>
+								<option value="Conejo">Conejo</option>
+								<option value="Cthulhu">Cthulhu</option>
+								<option value="Cuervo">Cuervo</option>
+								<option value="Dragón">Dragón</option>
+								<option value="Lobo">Lobo</option>
+								<option value="Panda">Panda</option>
+								<option value="Zorro">Zorro</option>
+								<option value="León">León</option>
+								<option value="Pulpo">Pulpo</option>
+								<option value="Unicornio">Unicornio</option>
+							</select>
+							<span asp-validation-for="Type" class="text-danger"></span>
+						</div>
+					</div>
+
+					<div class="col-md-10">
+						<div class="form-group">
+							<label asp-for="Description" class="control-label"></label>
+							<textarea rows="4" asp-for="Description" class="form-control"></textarea>
+							<span asp-validation-for="Description" class="text-danger"></span>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<label asp-for="ImageNameActual" class="control-label">Imagen Actual Plushie</label>
+						<img src="~/images/@Model.ImageNameActual" class="img-thumbnail" />
+					</div>
+					<div class="col-md-6">
+						<label asp-for="ImageThumbnailActual" class="control-label">Imagen Actual Thumbnail</label>
+						<img src="~/images/@Model.ImageThumbnailActual" class="img-thumbnail" />
+					</div>
+
+				</div>
+				<div class="row mb-3">
+					<div class="col-md-6">
+						<div class="form-group">
+							<label asp-for="ImagePlushie" class="control-label">Imagen del Plushie</label>
+							<div class="custom-file">
+								<input asp-for="ImagePlushie" type="file" class="custom-file-input" id="ImagePlushie" />
+								<label class="custom-file-label" for="ImagePlushieId" id="customFileLabel">Elegir Imagen...</label>
+							</div>
+							<span asp-validation-for="ImagePlushie" class="text-danger"></span>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="form-group">
+							<label asp-for="ImagePlushieThumbnail" class="control-label">Imagen del Thumbnail</label>
+							<div class="custom-file">
+								<input asp-for="ImagePlushieThumbnail" type="file" class="custom-file-input" id="ImagePlushieThumbnail" />
+								<label class="custom-file-label" for="ImagePlushieThumbnailId" id="customFileLabel">Elegir Imagen...</label>
+							</div>
+							<span asp-validation-for="ImagePlushieThumbnail" class="text-danger"></span>
+						</div>
+					</div>
+				</div>
+
+				<div class="form-group">
+					<div class="btn-group">
+						<input type="submit" value="Guardar" class="btn btn-primary"/>
+						<a asp-action="Index" class="btn btn-danger">
+							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-circle" viewBox="0 0 16 16">
+									<path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+									<path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708"/>
+							</svg>
+							Cancelar
+						</a>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+@section scripts {
+		<script type="text/javascript">
+				$(".custom-file-input").on("change", function () {
+					var fileName = $(this).val().split("\\").pop();
+					$(this).siblings(".custom-file-label")
+						.addClass("selected").html(fileName);
+				});
+		</script>
+}
+

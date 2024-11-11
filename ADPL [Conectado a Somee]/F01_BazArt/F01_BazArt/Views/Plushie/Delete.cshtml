@@ -1,0 +1,64 @@
+﻿@model F01_BazArt.Models.Plushie
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item text-decoration-none"><a asp-action="Index">Inicio</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Eliminar - @Html.DisplayFor(model => model.Name)</li>
+  </ol>
+</nav>
+
+<h1>Eliminar</h1>
+
+<h3 class="mb-4">¿Estás seguro de querer eliminar este producto?</h3>
+<div class="container pt-3">
+    <div class="row">
+        <div class="col-sm-6 mb-4 text-center">
+            <div class="row mb-4 mx-auto">
+                <div class="col-sm-6">
+                    <img src="~/images/@Html.DisplayFor(model => model.ImageName)" alt="Imagen del Plushie" width="200" />
+                </div>
+                <div class="col-sm-6">
+                    <img src="~/images/@Html.DisplayFor(model => model.ImageThumbnail)" alt="Imagen del Plushie" width="200" />
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6">
+            <div class="row mb-4">
+                <div class="col">
+                    <h1 style="color: rgb(56 69 109);">@Html.DisplayFor(model => model.Name)</h1>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col">
+                    <h2 style="color: #f95346;">@Html.DisplayFor(model => model.Price) MXN</h2>
+                </div>
+                </div>
+            <div class="row mb-3">
+                <div class="col">
+                    <h3 style="color: rgb(56 69 109);">@Html.DisplayFor(model => model.Stock) en existencia</h3>
+                </div>
+            </div>
+
+            <div class="row mb-3" >
+                <div class="col" style="border-top: 1px solid #e0e0e0; padding-top: 20px;" >
+                    <p class="lead">
+                        @Html.DisplayFor(model => model.Description)
+                    </p>
+                </div>
+            </div>
+            <div class="row mb-3" >
+                <div class="col">
+                    <form asp-action="Delete">
+                        <input type="hidden" asp-for="Id" />
+                        <input type="submit" value="ELIMINAR" class="btn btn-danger" />
+                        <a asp-action="Index" class="btn btn-outline-secondary">Cancelar</a>
+                    </form> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
