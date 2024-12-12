@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\views\\plushie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\views\\plushie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\models\\plushie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\models\\plushie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\controllers\\plushiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\controllers\\plushiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\views\\plushie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\views\\plushie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\views\\plushie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\views\\plushie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\views\\plushie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\views\\plushie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\f01_bazart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\f01_bazart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\migrations\\20240716055105_mig00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\migrations\\20240716055105_mig00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\views\\plushie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\views\\plushie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\viewmodels\\buscavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\viewmodels\\buscavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\viewmodels\\plushievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\viewmodels\\plushievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|e:\\ismae\\documents\\conexion_a_apis\\backup\\f01_bazart\\f01_bazart\\data\\plushiecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D9EDB-01FF-4423-A699-DF671346AFFD}|F01_BazArt\\F01_BazArt.csproj|solutionrelative:f01_bazart\\data\\plushiecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 126,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "F01_BazArt\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "F01_BazArt\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T04:35:48.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Plushie\\Delete.cshtml",
+              "RelativeDocumentMoniker": "F01_BazArt\\Views\\Plushie\\Delete.cshtml",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Plushie\\Delete.cshtml",
+              "RelativeToolTip": "F01_BazArt\\Views\\Plushie\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T21:25:52.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Plushie\\Details.cshtml",
+              "RelativeDocumentMoniker": "F01_BazArt\\Views\\Plushie\\Details.cshtml",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Plushie\\Details.cshtml",
+              "RelativeToolTip": "F01_BazArt\\Views\\Plushie\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T19:50:44.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Plushie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "F01_BazArt\\Views\\Plushie\\Edit.cshtml",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Plushie\\Edit.cshtml",
+              "RelativeToolTip": "F01_BazArt\\Views\\Plushie\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T18:20:08.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240716055105_Mig00.cs",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Migrations\\20240716055105_Mig00.cs",
+              "RelativeDocumentMoniker": "F01_BazArt\\Migrations\\20240716055105_Mig00.cs",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Migrations\\20240716055105_Mig00.cs",
+              "RelativeToolTip": "F01_BazArt\\Migrations\\20240716055105_Mig00.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:51:05.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Plushie\\Create.cshtml",
+              "RelativeDocumentMoniker": "F01_BazArt\\Views\\Plushie\\Create.cshtml",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Plushie\\Create.cshtml",
+              "RelativeToolTip": "F01_BazArt\\Views\\Plushie\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T04:28:56.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Plushie\\Index.cshtml",
+              "RelativeDocumentMoniker": "F01_BazArt\\Views\\Plushie\\Index.cshtml",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Views\\Plushie\\Index.cshtml",
+              "RelativeToolTip": "F01_BazArt\\Views\\Plushie\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T04:17:55.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlushieController.cs",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Controllers\\PlushieController.cs",
+              "RelativeDocumentMoniker": "F01_BazArt\\Controllers\\PlushieController.cs",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Controllers\\PlushieController.cs",
+              "RelativeToolTip": "F01_BazArt\\Controllers\\PlushieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:16:26.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\appsettings.json",
+              "RelativeDocumentMoniker": "F01_BazArt\\appsettings.json",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\appsettings.json",
+              "RelativeToolTip": "F01_BazArt\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAD7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T02:33:43.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuscaVM.cs",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\ViewModels\\BuscaVM.cs",
+              "RelativeDocumentMoniker": "F01_BazArt\\ViewModels\\BuscaVM.cs",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\ViewModels\\BuscaVM.cs",
+              "RelativeToolTip": "F01_BazArt\\ViewModels\\BuscaVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:30:26.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlushieVM.cs",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\ViewModels\\PlushieVM.cs",
+              "RelativeDocumentMoniker": "F01_BazArt\\ViewModels\\PlushieVM.cs",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\ViewModels\\PlushieVM.cs",
+              "RelativeToolTip": "F01_BazArt\\ViewModels\\PlushieVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:30:17.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plushie.cs",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Models\\Plushie.cs",
+              "RelativeDocumentMoniker": "F01_BazArt\\Models\\Plushie.cs",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Models\\Plushie.cs",
+              "RelativeToolTip": "F01_BazArt\\Models\\Plushie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:24:45.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlushieContext.cs",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Data\\PlushieContext.cs",
+              "RelativeDocumentMoniker": "F01_BazArt\\Data\\PlushieContext.cs",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Data\\PlushieContext.cs",
+              "RelativeToolTip": "F01_BazArt\\Data\\PlushieContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:23:39.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Startup.cs",
+              "RelativeDocumentMoniker": "F01_BazArt\\Startup.cs",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\Startup.cs",
+              "RelativeToolTip": "F01_BazArt\\Startup.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:21:18.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "F01_BazArt.csproj",
+              "DocumentMoniker": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\F01_BazArt.csproj",
+              "RelativeDocumentMoniker": "F01_BazArt\\F01_BazArt.csproj",
+              "ToolTip": "E:\\ismae\\Documents\\Conexion_a_APIS\\Backup\\F01_BazArt\\F01_BazArt\\F01_BazArt.csproj",
+              "RelativeToolTip": "F01_BazArt\\F01_BazArt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T02:21:06.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
